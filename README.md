@@ -1,1 +1,1 @@
-# JobSphere-MERN_Job_Seeking_Web_Application
+# JobZee-MERN_Job_Seeking_Web_Application
