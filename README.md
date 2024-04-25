@@ -3,7 +3,7 @@
 Welcome to our MERN Stack Job Seeking Web Application! This project is designed to help both job seekers and employers connect seamlessly through a user-friendly interface. Leveraging the power of MongoDB, Express.js, React, and Node.js, we've crafted a robust platform that simplifies the job search process.
 
 
-#### Features
+## Features
 
 -User Authentication: Secure user registration and authentication using JSON Web Tokens (JWT).
 
